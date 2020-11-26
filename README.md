@@ -12,7 +12,7 @@ coffee equipment and merchandise (grinders, brewing equipment, mugs, books, t-sh
 RR Diner Coffee has three stores, two in Europe and one in the USA. The flagshap store is in the USA, and everything is quality assessed there, before being shipped out. Customers further away from the USA flagship store have higher shipping charges.
 
 
-## Project 2: Regression: The Red Wine Dataset
+## [Project 2: Regression: The Red Wine Dataset](https://github.com/kngoran/SpringBoardProjects/blob/master/%20Regression%20Case%20Study-the%20Red%20Wine%20Dataset.ipynb) 
 
 Welcome to the Unit 8 Springboard Regression case study! Please note: this is Tier 3 of the case study.
 
