@@ -1,7 +1,7 @@
 # Ngoran_Portfolio
 My Data Science Portfolio
 
-[Project 1:  Decision Tree Specialty Coffee Case Study(https://github.com/kngoran/SpringBoardProjects/blob/master/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
+[Project 1:  Decision Tree Specialty Coffee Case Study] (https://github.com/kngoran/SpringBoardProjects/blob/master/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
 
 Imagine you've just finished the Springboard Data Science Career Track course, and have been hired by a rising popular specialty coffee company - RR Diner Coffee - as a data scientist. Congratulations!
 
