@@ -21,3 +21,31 @@ This case study was designed for you to use Python to apply the knowledge you've
 ## [Project 3 Predict Employees Attrition and Retention Using Classification algorithms](https://github.com/kngoran/SpringBoardProjects/blob/master/Capstone%20Project%202%20Employees'%20Turnover%20%26%20Retention2.ipynb)
 
 Many organizations have found that turnover is a very costly problem. Turnover is a process in which employees leave an organization. Employees leave the company voluntarily or involuntarily. In either way, companies have to replace them. The extent to which employers face turnover rates and the cost often varies by organizations and industries. Depending on the organization or industries, management has to pay particular attention to the turnover rate since it can reduce the productivity and loss of clients that affect the company's long-run bottom line. In this project, we will try to uncover the key variables that contribute to employees' turnover.
+
+## [Project 4: Customer Segmentation with K-Means"](https://github.com/kngoran/SpringBoardProjects/blob/master/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means.ipynb)
+
+
+This case study is based on this blog post by the yhat blog. Please feel free to refer to the post for additional information, and solutions.
+
+Structure of the mini-project:
+
+Sourcing and loading
+Load the data
+Explore the data
+Cleaning, transforming and visualizing
+Data Wrangling: Exercise Set 1
+Creating a matrix with a binary indicator for whether they responded to a given offer
+Ensure that in doing so, NAN values are dealt with appropriately
+Modelling
+
+K-Means clustering: Exercise Sets 2 and 3
+
+Choosing K: The Elbow method
+Choosing K: The Silhouette method
+Choosing K: The Gap statistic method
+Visualizing clusters with PCA: Exercise Sets 4 and 5
+
+Conclusions and next steps
+Conclusions
+Other clustering algorithms (Exercise Set 6)
+
