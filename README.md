@@ -55,13 +55,13 @@ To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers
     how much they spent on RR Diner Coffee products in the month preceding the survey
     the number of RR Diner coffee bean shipments each customer has ordered over the preceding year
 
-You also asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
+We also asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
 
-You sit back and think: if more than 70% of the interviewed customers are likely to buy the Hidden Farm coffee, you will strike the deal with the local Hidden Farm farmers and sell the coffee. Otherwise, you won't strike the deal and the Hidden Farm coffee will remain in legends only. There's some doubt in your mind about whether 70% is a reasonable threshold, but it'll do for the moment.
+ If more than 70% of the interviewed customers are likely to buy the Hidden Farm coffee, you will strike the deal with the local Hidden Farm farmers and sell the coffee. Otherwise, we won't strike the deal and the Hidden Farm coffee will remain in legends only. There's some doubt in your mind about whether 70% is a reasonable threshold, but it'll do for the moment.
 
 To solve the problem, then, you will build a decision tree to implement a classification solution.
 
-We will follow Data  the four stages of Data Science Pipeline:
+As always, We will follow the four stages of Data Science Pipeline:
 
 1. Sourcing and loading
 
