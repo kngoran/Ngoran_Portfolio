@@ -19,10 +19,10 @@ Data Science is magical. In this case study, we will get to apply some complex m
 
 Data Science projects generally adhere to the four stages of Data Science Pipeline:
 
-##### .Sourcing and loading
-##### .Cleaning, transforming, and visualizing
-##### .Modeling
-##### .Evaluating and concluding
+##### Sourcing and loading
+##### Cleaning, transforming, and visualizing
+##### Modeling
+##### Evaluating and concluding
 
 For this project we will use:
 Python essentially pandas matplotlib for
