@@ -44,7 +44,7 @@ Python essentially pandas matplotlib for
 
 ### Objectives 
 
-As a data scientist  we  will build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
+As a data scientist, we  will build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
 To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers, collecting data on the customers':
     age
     gender
@@ -52,7 +52,7 @@ To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers
     whether they have bought at least one RR Diner Coffee product online
     their distance from the flagship store in the USA (standardized to a number between 0 and 11)
     how much they spent on RR Diner Coffee products on the week of the survey
-    how much they spent on RR Diner Coffee products in the month preeding the survey
+    how much they spent on RR Diner Coffee products in the month preceding the survey
     the number of RR Diner coffee bean shipments each customer has ordered over the preceding year
 
 You also asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
@@ -74,7 +74,7 @@ We will follow Data  the four stages of Data Science Pipeline:
     Cleaning the data,
     Train/test split.
 
-3. Modelling
+3. Modeling
 
     Model 1: Entropy model - no max_depth,
     Model 2: Gini impurity model - no max_depth,
