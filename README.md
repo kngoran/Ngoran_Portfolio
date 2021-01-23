@@ -5,7 +5,7 @@
 ## [Project 1 : Predict london_borough House Price](https://github.com/kngoran/Project-/blob/main/%20%20Tier3%20London_Boroughs%20_project.ipynb)
 
 
-Objectives
+### Objectives
 
 
 In this notebook, we are  going to apply my data sciences skills to solve a real life problem.
@@ -14,43 +14,6 @@ Here’s the mystery we are going to solve: which boroughs of London have seen t
 
 A borough is just a fancy word for district. You may be familiar with the five boroughs of New York… well, there are 32 boroughs within Greater London (here's some info for the curious). Some of them are more desirable areas to live in, and the data will reflect that with a greater rise in housing prices
 
-For this project we will use:
-python  essentially pandas  for
-    data ingestion and inspection 
-    Exploration data analysis
-    Tydying  and cleaning the  dataset
-    Transforming and  Subsetting the  DataFrames with list 
-    Filtering and grouping the 
-    
- 
-
-Prework courses (Introduction to Python for Data Science, Intermediate Python for Data Science)
-Data Types for Data Science
-Python Data Science Toolbox (Part One)
-pandas Foundations
-Manipulating DataFrames with pandas
-Merging DataFrames with pandas
-Of the tools, techniques and concepts in the above DataCamp courses, this challenge should require the application of the following:
-
-pandas
-data ingestion and inspection (pandas Foundations, Module One)
-exploratory data analysis (pandas Foundations, Module Two)
-tidying and cleaning (Manipulating DataFrames with pandas, Module Three)
-transforming DataFrames (Manipulating DataFrames with pandas, Module One)
-subsetting DataFrames with lists (Manipulating DataFrames with pandas, Module One)
-filtering DataFrames (Manipulating DataFrames with pandas, Module One)
-grouping data (Manipulating DataFrames with pandas, Module Four)
-melting data (Manipulating DataFrames with pandas, Module Three)
-advanced indexing (Manipulating DataFrames with pandas, Module Four)
-matplotlib (Intermediate Python for Data Science, Module One)
-fundamental data types (Data Types for Data Science, Module One)
-dictionaries (Intermediate Python for Data Science, Module Two)
-handling dates and times (Data Types for Data Science, Module Four)
-function definition (Python Data Science Toolbox - Part One, Module One)
-default arguments, variable length, and scope (Python Data Science Toolbox - Part One, Module Two)
-lambda functions and error handling (Python Data Science Toolbox - Part One, Module Four)
-The Data Science Pipeline
-This is Tier Three, so we'll get you started. But after that, it's all in your hands! When you feel done with your investigations, look back over what you've accomplished, and prepare a quick presentation of your findings for the next mentor meeting.
 
 Data Science is magical. In this case study, you'll get to apply some complex machine learning algorithms. But as David Spiegelhalter reminds us, there is no substitute for simply taking a really, really good look at the data. Sometimes, this is all we need to answer our question.
 
@@ -60,6 +23,22 @@ Sourcing and loading
 Cleaning, transforming, and visualizing
 Modeling
 Evaluating and concluding
+
+For this project we will use:
+Python essentially pandas matplotlib for
+    data ingestion and inspection 
+    Exploration data analysis
+    Tydying  and cleaning the  dataset
+    Transforming and  Subsetting the  DataFrames with list 
+    Filtering and grouping the 
+    Melting the data 
+    Handling date and date time 
+    
+ 
+
+
+
+
 
 ## [Project 2: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/SpringBoardProjects/blob/master/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
 
