@@ -8,21 +8,21 @@
 ### Objectives
 
 
-In this notebook, we are  going to apply my data sciences skills to solve a real life problem.
+In this notebook, we are  going to apply our data sciences skills to solve a real life problem.
 
 Here’s the mystery we are going to solve: which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades?
 
 A borough is just a fancy word for district. You may be familiar with the five boroughs of New York… well, there are 32 boroughs within Greater London (here's some info for the curious). Some of them are more desirable areas to live in, and the data will reflect that with a greater rise in housing prices
 
 
-Data Science is magical. In this case study, you'll get to apply some complex machine learning algorithms. But as David Spiegelhalter reminds us, there is no substitute for simply taking a really, really good look at the data. Sometimes, this is all we need to answer our question.
+Data Science is magical. In this case study, we will get to apply some complex machine learning algorithms. But as David Spiegelhalter reminds us, there is no substitute for simply taking a really, really good look at the data. Sometimes, this is all we need to answer our question.
 
 Data Science projects generally adhere to the four stages of Data Science Pipeline:
 
-Sourcing and loading
-Cleaning, transforming, and visualizing
-Modeling
-Evaluating and concluding
+### .Sourcing and loading
+### .Cleaning, transforming, and visualizing
+### .Modeling
+### .Evaluating and concluding
 
 For this project we will use:
 Python essentially pandas matplotlib for
