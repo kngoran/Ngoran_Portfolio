@@ -8,7 +8,7 @@
 ### Objectives
 
 
-In this notebook, we are  going to apply our data sciences skills to solve a real life problem.
+In this notebook, we are  going to apply our data science skills to solve a real life problem.
 
 Here’s the mystery we are going to solve: which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades?
 
@@ -28,11 +28,11 @@ For this project we will use:
 Python essentially pandas matplotlib for
     data ingestion and inspection 
     Exploration data analysis
-    Tydying  and cleaning the  dataset
+    Tidying  and cleaning the  dataset
     Transforming and  Subsetting the  DataFrames with list 
     Filtering and grouping the 
     Melting the data 
-    Handling date and date time 
+    Handling date and date-time 
     
  
 
