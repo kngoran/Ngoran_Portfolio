@@ -42,20 +42,61 @@ Python essentially pandas matplotlib for
 
 ## [Project 2: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/SpringBoardProjects/blob/master/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study.ipynb)
 
-Imagine you've just finished the Springboard Data Science Career Track course, and have been hired by a rising popular specialty coffee company - RR Diner Coffee - as a data scientist. Congratulations!
+### Objectives 
 
-RR Diner Coffee sells two types of thing:
+As a data scientist  we  will build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
+To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers, collecting data on the customers':
+    age
+    gender
+    salary
+    whether they have bought at least one RR Diner Coffee product online
+    their distance from the flagship store in the USA (standardized to a number between 0 and 11)
+    how much they spent on RR Diner Coffee products on the week of the survey
+    how much they spent on RR Diner Coffee products in the month preeding the survey
+    the number of RR Diner coffee bean shipments each customer has ordered over the preceding year
 
-specialty coffee beans, in bulk (by the kilogram only)
-coffee equipment and merchandise (grinders, brewing equipment, mugs, books, t-shirts).
-RR Diner Coffee has three stores, two in Europe and one in the USA. The flagshap store is in the USA, and everything is quality assessed there, before being shipped out. Customers further away from the USA flagship store have higher shipping charges.
+You also asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
+
+You sit back and think: if more than 70% of the interviewed customers are likely to buy the Hidden Farm coffee, you will strike the deal with the local Hidden Farm farmers and sell the coffee. Otherwise, you won't strike the deal and the Hidden Farm coffee will remain in legends only. There's some doubt in your mind about whether 70% is a reasonable threshold, but it'll do for the moment.
+
+To solve the problem, then, you will build a decision tree to implement a classification solution.
+
+We will follow Data  the four stages of Data Science Pipeline:
+
+1. Sourcing and loading
+
+    Import packages
+    Load data
+    Explore the data
+
+2. Cleaning, transforming and visualizing
+
+    Cleaning the data
+    Train/test split
+
+3. Modelling
+
+    Model 1: Entropy model - no max_depth
+    Model 2: Gini impurity model - no max_depth
+    Model 3: Entropy model - max depth 3
+    Model 4: Gini impurity model - max depth 3
+
+4. Evaluating and concluding
+
+    How many customers will buy Hidden Farm coffee?
+    Decision
+
+5. Random Forest
+
+    Import necessary modules
+    Model
+    Revise conclusion
+
 
 
 ## [Project 3: Regression: The Red Wine Dataset](https://github.com/kngoran/SpringBoardProjects/blob/master/%20Regression%20Case%20Study-the%20Red%20Wine%20Dataset.ipynb) 
 
-Welcome to the Unit 8 Springboard Regression case study! Please note: this is Tier 3 of the case study.
-
-This case study was designed for you to use Python to apply the knowledge you've acquired in reading The Art of Statistics (hereinafter AoS) by Professor Spiegelhalter. Specifically, the case study will get you doing regression analysis; a method discussed in Chapter 5 on p.121. It might be useful to have the book open at that page when doing the case study to remind you of what it is we're up to (but bear in mind that other statistical concepts, such as training and testing, will be applied, so you might have to glance at other chapters too).
+This case study was designed  to use Python to apply the knowledge you've acquired in reading The Art of Statistics (hereinafter AoS) by Professor Spiegelhalter. Specifically,  we will a regression analysis; a method discussed in Chapter 5 on p.121. It might be useful to have the book open at that page when doing the case study to remind you of what it is we're up to (but bear in mind that other statistical concepts, such as training and testing, will be applied, so you might have to glance at other chapters too).
 
 ## [Project 3 Predict Employees Attrition and Retention Using Classification algorithms](https://github.com/kngoran/SpringBoardProjects/blob/master/Capstone%20Project%202%20Employees'%20Turnover%20%26%20Retention2.ipynb)
 
@@ -91,7 +132,7 @@ Other clustering algorithms (Exercise Set 6)
 
 ## [Project 6: Gradient Boosting](https://github.com/kngoran/SpringBoardProjects/blob/master/Gradient%20Boosting%20Case_Study.ipynb)
 
-You may recall that we last encountered gradients when discussing the gradient descent algorithm in the context of fitting linear regression models. For a particular regression model with n parameters, an n+1 dimensional space existed defined by all the parameters plus the cost/loss function to minimize. The combination of parameters and loss function define a surface within the space. The regression model is fitted by moving down the steepest 'downhill' gradient until we reach the lowest point of the surface, where all possible gradients are 'uphill.' The final model is made up of the parameter estimates that define that location on the surface.
+ The gradient descent algorithm in the context of fitting linear regression models. For a particular regression model with n parameters, an n+1 dimensional space existed defined by all the parameters plus the cost/loss function to minimize. The combination of parameters and loss function define a surface within the space. The regression model is fitted by moving down the steepest 'downhill' gradient until we reach the lowest point of the surface, where all possible gradients are 'uphill.' The final model is made up of the parameter estimates that define that location on the surface.
 
 Throughout all iterations of the gradient descent algorithm for linear regression, one thing remains constant: The underlying data used to estimate the parameters and calculate the loss function never changes. In gradient boosting, however, the underlying data do change.
 
