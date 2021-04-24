@@ -30,7 +30,7 @@ Python essentially pandas matplotlib for
     Exploration data analysis
     Tidying  and cleaning the  dataset
     Transforming and  Subsetting the  DataFrames with list 
-    Filtering and grouping the 
+    Filtering and grouping the
     Melting the data 
     Handling date and date-time 
     
