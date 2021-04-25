@@ -2,7 +2,7 @@
 ## My Data Science Portfolio
 
 
-## [Project 1 : Predict london_borough House Price](https://github.com/kngoran/Project-/blob/main/%20%20Tier3%20London_Boroughs%20_project.ipynb)
+## [Project 1 : Predict london_borough House Price Using Regression Algorithms](https://github.com/kngoran/Project-/blob/main/%20%20Tier3%20London_Boroughs%20_project.ipynb)
 
 
 ### Objectives
