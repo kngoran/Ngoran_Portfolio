@@ -44,7 +44,7 @@ Python essentially pandas matplotlib for
 
 ### Objectives 
 
-As a data scientist, we  will build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
+As a data scientist, I  will build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
 To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers, collecting data on the customers':
     age
     gender
@@ -55,7 +55,7 @@ To this end, we have a survey of 710 of the most loyal RR Diner Coffee customers
     how much they spent on RR Diner Coffee products in the month preceding the survey
     the number of RR Diner coffee bean shipments each customer has ordered over the preceding year
 
-We also asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
+ Also , I asked each customer participating in the survey whether they would buy the Hidden Farm coffee, and some (but not all) of the customers gave responses to that question.
 
  If more than 70% of the interviewed customers are likely to buy the Hidden Farm coffee, you will strike the deal with the local Hidden Farm farmers and sell the coffee. Otherwise, we won't strike the deal and the Hidden Farm coffee will remain in legends only. There's some doubt in your mind about whether 70% is a reasonable threshold, but it'll do for the moment.
 
