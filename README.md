@@ -95,7 +95,7 @@ As always, We will follow the four stages of Data Science Pipeline:
 
 
 
-## [Project 3: Regression: The Red Wine Dataset](https://github.com/kngoran/SpringBoardProjects/blob/master/%20Regression%20Case%20Study-the%20Red%20Wine%20Dataset.ipynb)
+## [Project 3: Regression: The Red Wine Dataset](https://github.com/kngoran/Project1/blob/main/%20Regression%20Case%20Study-%20the%20Red%20Wine%20Dataset%20.ipynb)
 
 This case study was designed  to use Python to apply the knowledge you've acquired in reading The Art of Statistics (hereinafter AoS) by Professor Spiegelhalter. Specifically,  we will a regression analysis; a method discussed in Chapter 5 on p.121. It might be useful to have the book open at that page when doing the case study to remind you of what it is we're up to (but bear in mind that other statistical concepts, such as training and testing, will be applied, so you might have to glance at other chapters too).
 
