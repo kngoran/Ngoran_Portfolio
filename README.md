@@ -1,4 +1,4 @@
-# NgoranK Portfolio
+# KNgoran Portfolio
 ## My Data Science Portfolio
 
 
