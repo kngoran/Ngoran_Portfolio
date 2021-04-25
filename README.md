@@ -40,8 +40,8 @@ Python essentially pandas matplotlib for
 
 
 
-## [Project 2: Decision Tree Specialty Coffee Case Study]
-(https://github.com/kngoran/Project1/blob/main/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20Right%20Copy%20.ipynb)
+## [Project 2: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/Project1/blob/main/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20Right%20Copy%20.ipynb)
+
 
 ### Objectives 
 
