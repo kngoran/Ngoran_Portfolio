@@ -104,7 +104,7 @@ This case study was designed  to use Python to apply the knowledge you've acquir
 Turnover is the number of employees that leave , voluntarily or involuntarily, an organization in a period of time. In either way, companies have to replace those employees to keep the optimal operation of the organization. The extent to which employers face turnover rates and the cost often varies by organizations and industries. Depending on industries, management has to pay particular attention to the turnover rate since it can reduce the productivity and loss of clients that affect the company's long-run bottom line. In this project, we will try to uncover the key variables that contribute to employees' turnover.
 
 
-## [Project 5: Customer Segmentation with K-Means"](https://github.com/kngoran/SpringBoardProjects/blob/master/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means.ipynb)
+## [Project 5: Customer Segmentation with K-Means"](https://github.com/kngoran/Project1/blob/main/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
 
 
 This case study is based on this blog post by the yhat blog. Please feel free to refer to the post for additional information, and solutions.
