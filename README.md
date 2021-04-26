@@ -131,7 +131,7 @@ Conclusions and next steps
 Conclusions
 Other clustering algorithms (Exercise Set 6)
 
-## [Project 6: Gradient Boosting](https://github.com/kngoran/SpringBoardProjects/blob/master/Gradient%20Boosting%20Case_Study.ipynb)
+## [Project 6: Gradient Boosting](https://github.com/kngoran/Project1/blob/main/Gradient%20Boosting%20Case_Study.ipynb)
 
  The gradient descent algorithm in the context of fitting linear regression models. For a particular regression model with n parameters, an n+1 dimensional space existed defined by all the parameters plus the cost/loss function to minimize. The combination of parameters and loss function define a surface within the space. The regression model is fitted by moving down the steepest 'downhill' gradient until we reach the lowest point of the surface, where all possible gradients are 'uphill.' The final model is made up of the parameter estimates that define that location on the surface.
 
