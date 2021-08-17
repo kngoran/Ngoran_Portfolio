@@ -101,7 +101,7 @@ Python essentially pandas matplotlib for
     
  
 
-## Project 5 : Movies reviews analysis using NLP  
+## [Project 5 : Movies reviews analysis using NLP](https://github.com/kngoran/Ngoran_Portfolio/blob/main/Movies%20Review%20project%20.ipynb)
 
 The goal of the project is to classify the movie reviews as either positive or negative. We would be working on the ‘movie reviews’ dataset in Kaggle.
  To solve the problem, then, you will build a supervised machine learning text analysis.
@@ -205,4 +205,3 @@ Each time we run a decision tree, we extract the residuals. Then we run a new de
 Gradient boosting can work on any combination of loss function and model type, as long as we can calculate the derivatives of the loss function with respect to the model parameters. Most often, however, gradient boosting uses decision trees, and minimizes either the residual (regression trees) or the negative log-likelihood (classification trees).
 
 Let’s go through a simple regression example using Decision Trees as the base predictors (of course Gradient Boosting also works great with regression tasks). This is called Gradient Tree Boosting, or Gradient Boosted Regression Trees. First, let’s fit a DecisionTreeRegressor to the training set.
-
