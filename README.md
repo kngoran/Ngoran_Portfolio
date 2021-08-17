@@ -2,6 +2,34 @@
 ## My Data Science Portfolio
 
 
+
+[Project 1. Fake Job Postings Analysis using NLP Techniques]
+
+
+Apply to job postings online is one way for job seekers to get hired for their dream job. However, online jobs are not always real. There are a lot of fake jobs out there. Why do fake jobs posting exist? There are several reasons, but we will mention two major causes of this phenomenon. Companies posted fake jobs to gauge the current talent pool and see their attractiveness on the market. Also, scammers post fake jobs to attract job seekers in order to steal their personnel information and sell them on the internet. We develop a Machine Learning (ML) model using Natural Language Processing(NLP) techniques to predict whether the job posting is fraudulent or real.![image](https://user-images.githubusercontent.com/41029306/129671066-68c1ba60-b633-4674-b8b6-61fc262e6467.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## [Project 1 : Predict london boroughs House Price Using RegressionAlgorithms](https://github.com/kngoran/Project1/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
 
 
