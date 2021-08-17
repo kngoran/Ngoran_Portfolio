@@ -9,7 +9,7 @@ Apply to job postings online is one way for job seekers to get hired for their d
 
 To solve the problem, then, you will build a supervised machine learning text analysis.
 
-As always, We will follow the four stages of Data Science Pipeline:
+As always, We will follow the five stages of Data Science Pipeline:
 
 1. Sourcing and loading
 
@@ -26,14 +26,14 @@ As always, We will follow the four stages of Data Science Pipeline:
     WordCloud
     Train/test split.
     
- 3. Apply feacture extraction from text techniques 
+3. Apply feacture extraction from text techniques 
      
      CountVectorizer
      TfidfVectorizer
 
-4.  Train the Model 
+4. Train the Model 
 
-5   Documentation
+5. Documentation
 
 ## [Project 2: Customer Segmentation with K-Means"](https://github.com/kngoran/Project1/blob/main/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
 
@@ -106,7 +106,7 @@ Python essentially pandas matplotlib for
 The goal of the project is to classify the movie reviews as either positive or negative. We would be working on the ‘movie reviews’ dataset in Kaggle.
  To solve the problem, then, you will build a supervised machine learning text analysis.
 
-As always, We will follow the four stages of Data Science Pipeline:
+As always, We will follow the five stages of Data Science Pipeline:
 
 1. Sourcing and loading
 
@@ -123,14 +123,14 @@ As always, We will follow the four stages of Data Science Pipeline:
     WordCloud
     Train/test split.
     
- 3. Apply feacture extraction from text techniques 
+3. Apply feacture extraction from text techniques 
      
      CountVectorizer
      TfidfVectorizer
 
-4.  Train the Model 
+4. Train the Model 
 
-5   Documentation
+5. Documentation
 
 
 
