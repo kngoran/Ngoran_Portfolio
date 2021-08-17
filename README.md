@@ -5,31 +5,69 @@
 
 ## [Project 1. Fake Job Postings Analysis using NLP Techniques](https://github.com/kngoran/Ngoran_Portfolio/blob/main/Fake%20Job_%20posting%20analysis%20.ipynb)
 
-Apply to job postings online is one way for job seekers to get hired for their dream job. However, online jobs are not always real. There are a lot of fake jobs out there. Why do fake jobs posting exist? There are several reasons, but we will mention two major causes of this phenomenon. Companies posted fake jobs to gauge the current talent pool and see their attractiveness on the market. Also, scammers post fake jobs to attract job seekers in order to steal their personnel information and sell them on the internet. We develop a Machine Learning (ML) model using Natural Language Processing(NLP) techniques to predict whether the job posting is fraudulent or real.![image](https://user-images.githubusercontent.com/41029306/129671066-68c1ba60-b633-4674-b8b6-61fc262e6467.png)
+Apply to job postings online is one way for job seekers to get hired for their dream job. However, online jobs are not always real. There are a lot of fake jobs out there. Why do fake jobs posting exist? There are several reasons, but we will mention two major causes of this phenomenon. Companies posted fake jobs to gauge the current talent pool and see their attractiveness on the market. Also, scammers post fake jobs to attract job seekers in order to steal their personnel information and sell them on the internet. We develop a Machine Learning (ML) model using Natural Language Processing(NLP) techniques to predict whether the job posting is fraudulent or real.
+
+To solve the problem, then, you will build a supervised machine learning text analysis.
+
+As always, We will follow the four stages of Data Science Pipeline:
+
+1. Sourcing and loading
+
+    Import packages,
+    Load data,
+    Explore the data.
+
+2. Cleaning, transforming and visualizing
+
+    Cleaning the data,
+    Remove special characters and stop
+    Tokenize words
+    Stemming 
+    WordCloud
+    Train/test split.
+    
+ 3. Apply feacture extraction from text techniques 
+     
+     CountVectorizer
+     TfidfVectorizer
+
+4.  Train the Model 
+
+5   Documentation
+
+## [Project 2: Customer Segmentation with K-Means"](https://github.com/kngoran/Project1/blob/main/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
 
 
+This case study is based on this blog post by the yhat blog. Please feel free to refer to the post for additional information, and solutions.
+
+Structure of the mini-project:
+
+Sourcing and loading
+Load the data
+Explore the data
+Cleaning, transforming and visualizing
+Data Wrangling: Exercise Set 1
+Creating a matrix with a binary indicator for whether they responded to a given offer
+Ensure that in doing so, NAN values are dealt with appropriately
+Modelling
+
+K-Means clustering: Exercise Sets 2 and 3
+
+Choosing K: The Elbow method
+Choosing K: The Silhouette method
+Choosing K: The Gap statistic method
+Visualizing clusters with PCA: Exercise Sets 4 and 5
+
+Conclusions and next steps
+Conclusions
+Other clustering algorithms (Exercise Set 6)
+
+## [Project 3 : Predict Employees Attrition and Retention Using Classification algorithms](https://github.com/kngoran/HR-Analytics-Repo/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
+
+Turnover is the number of employees that leave , voluntarily or involuntarily, an organization in a period of time. In either way, companies have to replace those employees to keep the optimal operation of the organization. The extent to which employers face turnover rates and the cost often varies by organizations and industries. Depending on industries, management has to pay particular attention to the turnover rate since it can reduce the productivity and loss of clients that affect the company's long-run bottom line. In this project, we will try to uncover the key variables that contribute to employees' turnover.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## [Project 1 : Predict london boroughs House Price Using RegressionAlgorithms](https://github.com/kngoran/Project1/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
+## [Project 4 : Predict london boroughs House Price Using RegressionAlgorithms](https://github.com/kngoran/Project1/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
 
 
 ### Objectives
@@ -63,11 +101,40 @@ Python essentially pandas matplotlib for
     
  
 
+## Project 5 : Movies reviews analysis using NLP  
+
+The goal of the project is to classify the movie reviews as either positive or negative. We would be working on the ‘movie reviews’ dataset in Kaggle.
+ To solve the problem, then, you will build a supervised machine learning text analysis.
+
+As always, We will follow the four stages of Data Science Pipeline:
+
+1. Sourcing and loading
+
+    Import packages,
+    Load data,
+    Explore the data.
+
+2. Cleaning, transforming and visualizing
+
+    Cleaning the data,
+    Remove special characters and stop
+    Tokenize words
+    Stemming 
+    WordCloud
+    Train/test split.
+    
+ 3. Apply feacture extraction from text techniques 
+     
+     CountVectorizer
+     TfidfVectorizer
+
+4.  Train the Model 
+
+5   Documentation
 
 
 
-
-## [Project 2: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/Project1/blob/main/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20Right%20Copy%20.ipynb)
+## [Project 6: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/Project1/blob/main/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20Right%20Copy%20.ipynb)
 
 
 ### Objectives 
@@ -122,43 +189,12 @@ As always, We will follow the four stages of Data Science Pipeline:
 
 
 
-## [Project 3: Regression: The Red Wine Dataset](https://github.com/kngoran/Project1/blob/main/%20Regression%20Case%20Study-%20the%20Red%20Wine%20Dataset%20.ipynb)
+## [Project 7: Regression: The Red Wine Dataset](https://github.com/kngoran/Project1/blob/main/%20Regression%20Case%20Study-%20the%20Red%20Wine%20Dataset%20.ipynb)
 
 This case study was designed  to use Python to apply the knowledge you've acquired in reading The Art of Statistics (hereinafter AoS) by Professor Spiegelhalter. Specifically,  we will a regression analysis; a method discussed in Chapter 5 on p.121. It might be useful to have the book open at that page when doing the case study to remind you of what it is we're up to (but bear in mind that other statistical concepts, such as training and testing, will be applied, so you might have to glance at other chapters too).
 
-## [Project 4: Predict Employees Attrition and Retention Using Classification algorithms](https://github.com/kngoran/HR-Analytics-Repo/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
 
-Turnover is the number of employees that leave , voluntarily or involuntarily, an organization in a period of time. In either way, companies have to replace those employees to keep the optimal operation of the organization. The extent to which employers face turnover rates and the cost often varies by organizations and industries. Depending on industries, management has to pay particular attention to the turnover rate since it can reduce the productivity and loss of clients that affect the company's long-run bottom line. In this project, we will try to uncover the key variables that contribute to employees' turnover.
-
-
-## [Project 5: Customer Segmentation with K-Means"](https://github.com/kngoran/Project1/blob/main/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
-
-
-This case study is based on this blog post by the yhat blog. Please feel free to refer to the post for additional information, and solutions.
-
-Structure of the mini-project:
-
-Sourcing and loading
-Load the data
-Explore the data
-Cleaning, transforming and visualizing
-Data Wrangling: Exercise Set 1
-Creating a matrix with a binary indicator for whether they responded to a given offer
-Ensure that in doing so, NAN values are dealt with appropriately
-Modelling
-
-K-Means clustering: Exercise Sets 2 and 3
-
-Choosing K: The Elbow method
-Choosing K: The Silhouette method
-Choosing K: The Gap statistic method
-Visualizing clusters with PCA: Exercise Sets 4 and 5
-
-Conclusions and next steps
-Conclusions
-Other clustering algorithms (Exercise Set 6)
-
-## [Project 6: Gradient Boosting](https://github.com/kngoran/Project1/blob/main/Gradient%20Boosting%20Case_Study.ipynb)
+## [Project 8: Gradient Boosting](https://github.com/kngoran/Project1/blob/main/Gradient%20Boosting%20Case_Study.ipynb)
 
  The gradient descent algorithm in the context of fitting linear regression models. For a particular regression model with n parameters, an n+1 dimensional space existed defined by all the parameters plus the cost/loss function to minimize. The combination of parameters and loss function define a surface within the space. The regression model is fitted by moving down the steepest 'downhill' gradient until we reach the lowest point of the surface, where all possible gradients are 'uphill.' The final model is made up of the parameter estimates that define that location on the surface.
 
