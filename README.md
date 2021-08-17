@@ -7,7 +7,7 @@
 
 Apply to job postings online is one way for job seekers to get hired for their dream job. However, online jobs are not always real. There are a lot of fake jobs out there. Why do fake jobs posting exist? There are several reasons, but we will mention two major causes of this phenomenon. Companies posted fake jobs to gauge the current talent pool and see their attractiveness on the market. Also, scammers post fake jobs to attract job seekers in order to steal their personnel information and sell them on the internet. We develop a Machine Learning (ML) model using Natural Language Processing(NLP) techniques to predict whether the job posting is fraudulent or real.
 
-To solve the problem, then, you will build a supervised machine learning text analysis.
+To solve the problem, we will build a supervised machine learning text analysis.
 
 As always, We will follow the five stages of Data Science Pipeline:
 
@@ -104,9 +104,9 @@ Python essentially pandas matplotlib for
 ## [Project 5 : Movies reviews analysis using NLP](https://github.com/kngoran/Ngoran_Portfolio/blob/main/Movies%20Review%20project%20.ipynb)
 
 The goal of the project is to classify the movie reviews as either positive or negative. We would be working on the ‘movie reviews’ dataset in Kaggle.
- To solve the problem, then, you will build a supervised machine learning text analysis.
+ To solve the problem, I will build a supervised machine learning text analysis.
 
-As always, We will follow the five stages of Data Science Pipeline:
+As always, we will follow the five stages of Data Science Pipeline:
 
 1. Sourcing and loading
 
@@ -131,7 +131,6 @@ As always, We will follow the five stages of Data Science Pipeline:
 4. Train the Model 
 
 5. Documentation
-
 
 
 ## [Project 6: Decision Tree Specialty Coffee Case Study](https://github.com/kngoran/Project1/blob/main/%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20Right%20Copy%20.ipynb)
@@ -204,4 +203,4 @@ Each time we run a decision tree, we extract the residuals. Then we run a new de
 
 Gradient boosting can work on any combination of loss function and model type, as long as we can calculate the derivatives of the loss function with respect to the model parameters. Most often, however, gradient boosting uses decision trees, and minimizes either the residual (regression trees) or the negative log-likelihood (classification trees).
 
-Let’s go through a simple regression example using Decision Trees as the base predictors (of course Gradient Boosting also works great with regression tasks). This is called Gradient Tree Boosting, or Gradient Boosted Regression Trees. First, let’s fit a DecisionTreeRegressor to the training set.
+Let’s go through a simple regression example using Decision Trees as the base predictors (of course Gradient Boosting also works great with regression tasks). This is called Gradient Tree Boosting, or Gradient Boosted Regression Trees. First, let’s fit a DecisionTreeRegressor to the training set
