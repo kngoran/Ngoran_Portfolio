@@ -62,7 +62,7 @@ Conclusions and next steps
 Conclusions
 Other clustering algorithms (Exercise Set 6)
 
-## [Project 3 : Predict Employees Attrition and Retention Using Classification algorithms](https://github.com/kngoran/HR-Analytics-Repo/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
+## [Project 3 : Predict Employees Attrition and Retention Using Classification algorithms](https://nbviewer.org/github/kngoran/Ngoran_Portfolio/blob/main/%20%20Employee%20Churn%20model%20%20with%20Strategic%20Retention%20Plan.ipynb)
 
 Turnover is the number of employees that leave , voluntarily or involuntarily, an organization in a period of time. In either way, companies have to replace those employees to keep the optimal operation of the organization. The extent to which employers face turnover rates and the cost often varies by organizations and industries. Depending on industries, management has to pay particular attention to the turnover rate since it can reduce the productivity and loss of clients that affect the company's long-run bottom line. In this project, we will try to uncover the key variables that contribute to employees' turnover.
 
